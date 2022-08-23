@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil, I started programming in february 2020, on Trybe: https://www.betrybe.com/  🚀 
+Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil, I started programming in february 2020, on Trybe.
 My goal is to improve myself in programming logic and algorithms.
 
 
