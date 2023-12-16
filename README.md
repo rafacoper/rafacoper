@@ -1,26 +1,26 @@
 <a href="https://github.com/rafaelpbar" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px">
-</a> 
-<a href="https://www.linkedin.com/in/rafael-passos-barbosa/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img height="120" src='./imgs/linkedin-1-svgrepo-com.svg'>
 </a>
 
 <br />
 <br />
 
-Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil, I started programming in february 2020, on Trybe.
-My goal is to improve myself in programming logic and algorithms.
-
+Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil. I program to solve my problems and to develop solutions that are worth creating. I'm looking for professional engagement so I can model myself on the best and influence others to become developers.
 
 **Languages and Tools:**  
 
-<code><img height="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><br>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
+<code><img height="100" src='./imgs/microsoft-svgrepo-com.svg'></code>
+<code><img height="100" src='./imgs/linux-svgrepo-com.svg'></code>
+<code><img height="100" src='./imgs/docker-svgrepo-com.svg'></code>
+<code><img height="100" src='./imgs/git-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./imgs/javascript-svgrepo-com.svg'></code>
+<code><img height="80" src='./imgs/react-svgrepo-com.svg'></code>
+<code><img height="80" src='./imgs/nextjs-svgrepo-com.svg'></code>
+<code><img height="80" src='./imgs/angular-svgrepo-com.svg'></code>
+<code><img height="60" src='./imgs/html-5-svgrepo-com.svg'></code>
+<code><img height="60" src='./imgs/css-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./imgs/nodejs-icon-svgrepo-com.svg'></code>
+<code><img height="80" src='./imgs/nestjs-svgrepo-com.svg'></code>
+<code><img height="60" src='./imgs/sql-database-generic-svgrepo-com.svg'></code>
+<code><img height="60" src='./imgs/mongodb-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./imgs/python-svgrepo-com.svg'></code>
