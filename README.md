@@ -9,18 +9,18 @@ Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil. I program to solv
 
 **Languages and Tools:**  
 
-<code><img height="100" src='./imgs/microsoft-svgrepo-com.svg'></code>
-<code><img height="100" src='./imgs/linux-svgrepo-com.svg'></code>
-<code><img height="100" src='./imgs/docker-svgrepo-com.svg'></code>
-<code><img height="100" src='./imgs/git-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./imgs/javascript-svgrepo-com.svg'></code>
-<code><img height="80" src='./imgs/react-svgrepo-com.svg'></code>
-<code><img height="80" src='./imgs/nextjs-svgrepo-com.svg'></code>
-<code><img height="80" src='./imgs/angular-svgrepo-com.svg'></code>
-<code><img height="60" src='./imgs/html-5-svgrepo-com.svg'></code>
-<code><img height="60" src='./imgs/css-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./imgs/nodejs-icon-svgrepo-com.svg'></code>
-<code><img height="80" src='./imgs/nestjs-svgrepo-com.svg'></code>
-<code><img height="60" src='./imgs/sql-database-generic-svgrepo-com.svg'></code>
-<code><img height="60" src='./imgs/mongodb-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./imgs/python-svgrepo-com.svg'></code>
+<code><img height="100" src='./assets/microsoft-svgrepo-com.svg'></code>
+<code><img height="100" src='./assets/linux-svgrepo-com.svg'></code>
+<code><img height="100" src='./assets/docker-svgrepo-com.svg'></code>
+<code><img height="100" src='./assets/git-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./assets/javascript-svgrepo-com.svg'></code>
+<code><img height="80" src='./assets/react-svgrepo-com.svg'></code>
+<code><img height="80" src='./assets/nextjs-svgrepo-com.svg'></code>
+<code><img height="80" src='./assets/angular-svgrepo-com.svg'></code>
+<code><img height="60" src='./assets/html-5-svgrepo-com.svg'></code>
+<code><img height="60" src='./assets/css-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./assets/nodejs-icon-svgrepo-com.svg'></code>
+<code><img height="80" src='./assets/nestjs-svgrepo-com.svg'></code>
+<code><img height="60" src='./assets/sql-database-generic-svgrepo-com.svg'></code>
+<code><img height="60" src='./assets/mongodb-svgrepo-com.svg'></code><br>
+<code><img height="80" src='./assets/python-svgrepo-com.svg'></code>
