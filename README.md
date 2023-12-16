@@ -1,5 +1,5 @@
 <a href="https://github.com/rafaelpbar" target="_blank">
-  <img height="120" src='./imgs/linkedin-1-svgrepo-com.svg'>
+  <img height="120" src='./assets/linkedin-1-svgrepo-com.svg'>
 </a>
 
 <br />
