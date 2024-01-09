@@ -13,3 +13,4 @@ I'm a passionate full-stack developer who embarked on the technology journey a f
 
 ## Let's Connect!
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-passos-barbosa)[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:rafaelbarbosa.tecnologia@gmail.com)[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/rafao_rafa.coper)[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rafereact)
+
