@@ -1,26 +1,16 @@
-<a href="https://github.com/rafaelpbar" target="_blank">
-  <img height="120" src='./assets/linkedin-1-svgrepo-com.svg'>
-</a>
+# Hello, Everyone! 🤙
 
-<br />
-<br />
+I'm a passionate full-stack developer who embarked on the technology journey a few years ago and found an irresistible addiction to it. My goal is to establish a thriving career centered around technological solutions, leveraging my problem-solving skills. I'm enthusiastic about making new connections and contributing to open-source projects.
 
-Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil. I program to solve my problems and to develop solutions that are worth creating. I'm looking for professional engagement so I can model myself on the best and influence others to become developers.
+## Skills I've Been Developing
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nodejs,nestjs,postgres,sequelize,tailwind&perline=6)
 
-**Languages and Tools:**  
+## Some Knowledge In
+[![Prior](https://skillicons.dev/icons?i=py,mongodb,mysql,svelte,jest,bootstrap,figma,firebase,heroco&perline=6)](https://skillicons.dev)
 
-<code><img height="100" src='./assets/microsoft-svgrepo-com.svg'></code>
-<code><img height="100" src='./assets/linux-svgrepo-com.svg'></code>
-<code><img height="100" src='./assets/docker-svgrepo-com.svg'></code>
-<code><img height="100" src='./assets/git-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./assets/javascript-svgrepo-com.svg'></code>
-<code><img height="80" src='./assets/react-svgrepo-com.svg'></code>
-<code><img height="80" src='./assets/nextjs-svgrepo-com.svg'></code>
-<code><img height="80" src='./assets/angular-svgrepo-com.svg'></code>
-<code><img height="60" src='./assets/html-5-svgrepo-com.svg'></code>
-<code><img height="60" src='./assets/css-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./assets/nodejs-icon-svgrepo-com.svg'></code>
-<code><img height="80" src='./assets/nestjs-svgrepo-com.svg'></code>
-<code><img height="60" src='./assets/sql-database-generic-svgrepo-com.svg'></code>
-<code><img height="60" src='./assets/mongodb-svgrepo-com.svg'></code><br>
-<code><img height="80" src='./assets/python-svgrepo-com.svg'></code>
+## Tools & Technologies I Use
+[![Conventional](https://skillicons.dev/icons?i=linux,vscode,git,docker,postman,vercel)](https://skillicons.dev)
+
+## Let's Connect!
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-passos-barbosa)[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:rafaelbarbosa.tecnologia@gmail.com)[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/rafao_rafa.coper)[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rafereact)
+
