@@ -12,6 +12,6 @@ I'm a passionate full-stack developer who embarked on the technology journey a f
 [![Conventional](https://skillicons.dev/icons?i=linux,vscode,git,docker,postman,vercel)](https://skillicons.dev)
 
 ## Let's Connect!
-[![Communication](https://skillicons.dev/icons?i=linkedin,discord,gmail,twitter)](https://skillicons.dev)
+![Communication](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/rafael-passos-barbosa/) ![Communication](https://skillicons.dev/icons?i=discord,gmail,twitter)
 
 ---
