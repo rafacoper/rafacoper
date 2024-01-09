@@ -1,11 +1,17 @@
- # what's up fellas ! 🤙
- 
- I'm a fullstack developer who started a few years ago in the technology field and have become addicted to it. I'm looking to build a career based on technological solutions to add to my ability to solve problems. I am open to new connections and willing to contribute to open source projects.
+# Hello, Everyone! 🤙
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nodejs,nestjs,postgres,sequelize,tailwind)](https://skillicons.dev)
+I'm a passionate full-stack developer who embarked on the technology journey a few years ago and found an irresistible addiction to it. My goal is to establish a thriving career centered around technological solutions, leveraging my problem-solving skills. I'm enthusiastic about making new connections and contributing to open-source projects.
 
+## Skills I've Been Developing
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nodejs,nestjs,postgres,sequelize,tailwind&perline=6)](https://skillicons.dev)
+
+## Some Knowledge In
+[![Prior](https://skillicons.dev/icons?i=py,mongodb,mysql,svelte,jest,bootstrap,figma,firebase,heroco&perline=3)](https://skillicons.dev)
+
+## Tools & Technologies I Use
 [![Conventional](https://skillicons.dev/icons?i=linux,vscode,git,docker,postman,vercel)](https://skillicons.dev)
 
-[![Prior](https://skillicons.dev/icons?i=py,mongodb,mysql,svelte,jest,bootstrap,figma,firebase,heroco)](https://skillicons.dev)
+## Let's Connect!
+[![Communication](https://skillicons.dev/icons?i=linkedin,discord,gmail,twitter)](https://skillicons.dev)
 
-[![Comunication](https://skillicons.dev/icons?i=linkedin,discord,gmail,twitter)](https://skillicons.dev)
+---
