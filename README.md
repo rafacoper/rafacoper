@@ -1,6 +1,6 @@
 # Hello, Everyone! 🤙
 
-I'm a passionate full-stack developer who embarked on the technology journey a few years ago and found an irresistible addiction to it. My goal is to establish a thriving career centered around technological solutions, leveraging my problem-solving skills. I'm enthusiastic about making new connections and contributing to open-source projects.
+I'm a selfmade full-stack developer who embarked on the technology journey in 2020. My goal is to establish a thriving career centered around technological solutions, leveraging my problem-solving skills. I'm enthusiastic about making new connections.
 
 ## Skills I've Been Developing
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nodejs,nestjs,postgres,sequelize,tailwind&perline=6)
